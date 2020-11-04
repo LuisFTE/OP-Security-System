@@ -1,0 +1,1 @@
+*******Kivy might not work outside Python 3.7.1******
